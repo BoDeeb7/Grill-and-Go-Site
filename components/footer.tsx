@@ -78,7 +78,7 @@ export function Footer() {
           <div className="text-center">
   <p>© 2026 Grill & Go. All rights reserved.</p>
   <p className="text-sm mt-1 text-gray-500">
-    Powered By <span className="font-bold text-blue-600">DeebData</span>
+    Powered By <span className="font-bold text-blue-600">Deeb Data</span>
   </p>
 </div>
         </div>
