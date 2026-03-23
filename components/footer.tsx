@@ -75,7 +75,12 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center text-foreground/60 text-sm">
-          <p>&copy; {new Date().getFullYear()} Grill & Go. All rights reserved.</p>
+          <div className="text-center">
+  <p>© 2026 Grill & Go. All rights reserved.</p>
+  <p className="text-sm mt-1 text-gray-500">
+    Powered By <span className="font-bold text-blue-600">DeebData</span>
+  </p>
+</div>
         </div>
       </div>
     </footer>
